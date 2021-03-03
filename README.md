@@ -1,2 +1,4 @@
-# Chatbot
-Creating and creating an API for a simples bot
+# Simple-Python-Chatbot
+
+Creating a simple Python chatbot using natural language processing and deep learning.
+
